@@ -6,15 +6,6 @@
         <description>Recent content on 胜天半子</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>胜天半子</copyright>
-        <lastBuildDate>Sun, 17 Nov 2024 23:11:41 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>https://example.com/p/test/</link>
-        <pubDate>Sun, 17 Nov 2024 23:11:41 +0800</pubDate>
-        
-        <guid>https://example.com/p/test/</guid>
-        <description></description>
-        </item>
-        
+        <copyright>胜天半子</copyright><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
