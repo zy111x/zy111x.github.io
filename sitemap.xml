@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://blog.lianli.us.kg/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://blog.lianli.us.kg/categories/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://blog.lianli.us.kg/post/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://blog.lianli.us.kg/tags/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E6%84%9F%E6%82%9F/</loc>
+    <loc>https://blog.lianli.us.kg/tags/%E6%84%9F%E6%82%9F/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://blog.lianli.us.kg/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://blog.lianli.us.kg/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.lianli.us.kg/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/%E5%86%8D%E8%AF%BB%E6%88%91%E7%9A%84%E5%8F%94%E5%8F%94%E4%BA%8E%E5%8B%92/</loc>
+    <loc>https://blog.lianli.us.kg/p/%E5%86%8D%E8%AF%BB%E6%88%91%E7%9A%84%E5%8F%94%E5%8F%94%E4%BA%8E%E5%8B%92/</loc>
     <lastmod>2024-11-18T00:17:03+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://blog.lianli.us.kg/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://blog.lianli.us.kg/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/links/</loc>
+    <loc>https://blog.lianli.us.kg/links/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://blog.lianli.us.kg/search/</loc>
   </url><url>
-    <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://blog.lianli.us.kg/%E5%85%B3%E4%BA%8E/</loc>
   </url>
 </urlset>

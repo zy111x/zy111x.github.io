@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 胜天半子</title>
-        <link>https://example.com/tags/</link>
+        <link>https://blog.lianli.us.kg/tags/</link>
         <description>Recent content in Tags on 胜天半子</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>胜天半子</copyright>
-        <lastBuildDate>Mon, 18 Nov 2024 00:17:03 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 18 Nov 2024 00:17:03 +0800</lastBuildDate><atom:link href="https://blog.lianli.us.kg/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>感悟</title>
-        <link>https://example.com/tags/%E6%84%9F%E6%82%9F/</link>
+        <link>https://blog.lianli.us.kg/tags/%E6%84%9F%E6%82%9F/</link>
         <pubDate>Mon, 18 Nov 2024 00:17:03 +0800</pubDate>
         
-        <guid>https://example.com/tags/%E6%84%9F%E6%82%9F/</guid>
+        <guid>https://blog.lianli.us.kg/tags/%E6%84%9F%E6%82%9F/</guid>
         <description></description>
         </item>
         <item>
         <title>生活</title>
-        <link>https://example.com/tags/%E7%94%9F%E6%B4%BB/</link>
+        <link>https://blog.lianli.us.kg/tags/%E7%94%9F%E6%B4%BB/</link>
         <pubDate>Mon, 18 Nov 2024 00:17:03 +0800</pubDate>
         
-        <guid>https://example.com/tags/%E7%94%9F%E6%B4%BB/</guid>
+        <guid>https://blog.lianli.us.kg/tags/%E7%94%9F%E6%B4%BB/</guid>
         <description></description>
         </item>
         <item>
         <title>随笔</title>
-        <link>https://example.com/tags/%E9%9A%8F%E7%AC%94/</link>
+        <link>https://blog.lianli.us.kg/tags/%E9%9A%8F%E7%AC%94/</link>
         <pubDate>Mon, 18 Nov 2024 00:17:03 +0800</pubDate>
         
-        <guid>https://example.com/tags/%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://blog.lianli.us.kg/tags/%E9%9A%8F%E7%AC%94/</guid>
         <description></description>
         </item>
         
